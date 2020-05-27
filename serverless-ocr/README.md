@@ -1,8 +1,6 @@
 # Serverless OCR
 
-[Demo](https://ai.sls.plus)
-
-Serverless AI Application developed by Serverless Framework.
+Serverless OCR Application developed by Serverless Framework.
 
 ### Prepare
 
@@ -19,7 +17,7 @@ Severless cli is very convenient, it can download templates in any github
 project which should contain `serverless.yml` file.
 
 ```bash
-$ serverless create --template-url https://github.com/yugasun/serverless-ocr
+$ serverless create --template-url https://github.com/serverless-tencent/serverless-demos/serverless-ocr
 ```
 
 ### Bootstrap
